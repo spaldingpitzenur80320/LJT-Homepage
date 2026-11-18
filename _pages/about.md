@@ -32,12 +32,12 @@ Research Experience
 
 Publications
 ======
-My name is highlighted in **bold** in each author list.
+My name is shown in **bold** in each author list.
 
 * **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**<br/>
   **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He<br/>
   arXiv, 2025. (**First author**)<br/>
-  [Code](https://github.com/Vicent0205)
+  Code: GitHub code repository available
 
 * **On the Perception Bottleneck of VLMs for Chart Understanding**<br/>
   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He<br/>
